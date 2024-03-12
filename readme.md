@@ -1,8 +1,9 @@
-# shadowcoks4j
+# shadowsocks-jvm
 
-This is a clone of shadowsocks in Java.
+This is a shadowsocks implementation in Java.
 
 ## Features
 
-- [x] server relay
-- [ ] client relay
+- [x] TDP proxy
+- [ ] UDP proxy
+- [ ] Domain name resolution
